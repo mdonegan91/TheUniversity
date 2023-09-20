@@ -87,3 +87,24 @@ Stack trace:
 #3 {main}
   thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 21
 [20-Sep-2023 00:05:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[20-Sep-2023 00:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function paginate_link() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/index.php:33
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(19): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#3 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 33
+[20-Sep-2023 01:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_archile_title() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/archive.php:8
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(19): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#3 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 8
+[20-Sep-2023 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_titile() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:48
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(19): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#3 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 48

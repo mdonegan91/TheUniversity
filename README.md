@@ -10,10 +10,10 @@
 * JavaScript
 
 ## Known Bugs
-* 
+* gitignore
 
 #### Works in progress:
-* 
+* when to use echo vs not
 
 ### License
 
