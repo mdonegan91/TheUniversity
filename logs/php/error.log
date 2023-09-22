@@ -108,3 +108,114 @@ Stack trace:
 #2 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
 #3 {main}
   thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 48
+[22-Sep-2023 22:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-admin/admin.php(34): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/wp-admin/index.php(10): require_once('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:31:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[22-Sep-2023 22:31:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[22-Sep-2023 22:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-admin/admin.php(34): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/wp-admin/index.php(10): require_once('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(13): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:32:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-admin/admin.php(34): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/wp-admin/index.php(10): require_once('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:32:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(13): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(13): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(13): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(13): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioni() in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php:25
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-settings.php(600): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-config.php(103): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/wp-load.php(50): require_once('/Users/molly.do...')
+#3 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(13): require_once('/Users/molly.do...')
+#4 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#5 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:33:33 UTC] PHP Parse error:  syntax error, unexpected token ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Sep-2023 22:34:42 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:34:52 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:34:53 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:34:54 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:34:55 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:34:59 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:35:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:36:40 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "labels", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Sep-2023 22:36:40 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "labels", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Sep-2023 22:36:56 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "labels", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Sep-2023 22:36:56 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "labels", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[22-Sep-2023 22:37:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:37:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "menu_icon", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[22-Sep-2023 22:43:07 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "add", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 8
+[22-Sep-2023 22:43:15 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "add_new_item", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 8
+[22-Sep-2023 22:43:16 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "add_new_item", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 8
+[22-Sep-2023 22:44:20 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 10
+[22-Sep-2023 22:44:20 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 10
+[22-Sep-2023 22:44:21 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 10
+[22-Sep-2023 22:44:26 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/mu-plugins/university-post-types.php on line 10
+[22-Sep-2023 22:53:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "the_title" in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/front-page.php:26
+Stack trace:
+#0 /Users/molly.donegan/Local Sites/the-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/molly.donegan/Local Sites/the-university/app/public/wp-blog-header.php(19): require_once('/Users/molly.do...')
+#2 /Users/molly.donegan/Local Sites/the-university/app/public/index.php(17): require('/Users/molly.do...')
+#3 {main}
+  thrown in /Users/molly.donegan/Local Sites/the-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 26
